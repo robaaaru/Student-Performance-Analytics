@@ -7,5 +7,5 @@ This repository contains R scripts for data analysis, visualization, and modelin
 - `script2.R`: Description of script 2
 
 ## Requirements
-- R version 4.x
+- Download the latest version of [R](https://posit.co/download/rstudio-desktop/)
 - Packages: `ggplot2`, `dplyr`, etc.
