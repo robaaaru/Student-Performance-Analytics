@@ -11,7 +11,7 @@ This repository contains R scripts for data analysis, visualization, and modelin
 - Packages: `ggplot2`, `dplyr`, etc.
 
 
-# iShiny Dashboard
+#iShiny Dashboard
 
 This repository contains an interactive dashboard built with Shiny for R. The dashboard allows users to visualize relationships between various student life factors and their performance
 
@@ -21,7 +21,7 @@ Follow the instructions below to download R and run the dashboard.
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - R (version 4.0 or higher)
 - RStudio (optional, but recommended)
@@ -29,11 +29,11 @@ Follow the instructions below to download R and run the dashboard.
 
 ---
 
-## 1️⃣ Install R
+## Install R
 
 Download and install the latest version of R from CRAN:
 
-👉 [https://cran.r-project.org](https://cran.r-project.org)
+[https://cran.r-project.org](https://cran.r-project.org)
 
 Choose your operating system (Windows, macOS, or Linux) and follow the installation instructions.
 
@@ -43,15 +43,15 @@ Choose your operating system (Windows, macOS, or Linux) and follow the installat
 
 RStudio is a user-friendly IDE for R. You can download it here:
 
-👉 [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
+ [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
 
 ---
 
-## 3️⃣ Download the Dashboard Files
+## Download the Dashboard Files
 
 Click the green **Code** button at the top of this repository, then choose:
 
-➡️ **Download ZIP**  
+**Download ZIP**  
 Then extract the contents to your local computer.
 
 Alternatively, use this direct download link for the main file:
@@ -61,7 +61,7 @@ Alternatively, use this direct download link for the main file:
 
 ---
 
-## 4️⃣ Install Required R Packages
+## Install Required R Packages
 
 Open R or RStudio and run the following command to install necessary packages:
 
