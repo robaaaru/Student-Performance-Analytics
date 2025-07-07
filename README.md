@@ -4,7 +4,7 @@ This repository contains R scripts for data analysis, visualization, and modelin
 
 ## Files
 - `StudentPerformanceAnalytics.R`: a script designed to analyze and provide visual representation of the factors affecting students' academic performance.
-- `StudentFactorsToPerformance.csv`: a dataset with 1,100 observations collected from students across different institutions
+- `StudentFactorsToPerformance.csv`: a dataset with 1,100 observations collected from students across different institutions.
 
 ## Requirements
 - Download the latest version of [R](https://posit.co/download/rstudio-desktop/)
@@ -13,7 +13,7 @@ This repository contains R scripts for data analysis, visualization, and modelin
 
 ## iShiny Dashboard
 
-This repository contains an interactive dashboard built with Shiny for R. The dashboard allows users to visualize relationships between various student life factors and their performance
+This repository contains an interactive dashboard built with Shiny for R. The dashboard allows users to visualize relationships between various student life factors and their performance.
 
 ## Getting Started
 
