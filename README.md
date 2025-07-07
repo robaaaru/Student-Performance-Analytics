@@ -11,7 +11,7 @@ This repository contains R scripts for data analysis, visualization, and modelin
 - Packages: `ggplot2`, `dplyr`, etc.
 
 
-# iShiny Dashboard
+## iShiny Dashboard
 
 This repository contains an interactive dashboard built with Shiny for R. The dashboard allows users to visualize relationships between various student life factors and their performance
 
