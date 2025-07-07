@@ -57,7 +57,6 @@ Then extract the contents to your local computer.
 Alternatively, use this direct download link for the main file:
 
 - [Download `app.R`](https://raw.githubusercontent.com/yourusername/repo-name/main/app.R)  
-*(replace with your actual username and repo name)*
 
 ---
 
