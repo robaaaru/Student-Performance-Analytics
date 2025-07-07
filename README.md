@@ -15,7 +15,7 @@ This repository contains R scripts for data analysis, visualization, and modelin
 
 This repository contains an interactive dashboard built with Shiny for R. The dashboard allows users to visualize relationships between various student life factors and their performance
 
-## 📥 Getting Started
+## Getting Started
 
 Follow the instructions below to download R and run the dashboard.
 
@@ -39,7 +39,7 @@ Choose your operating system (Windows, macOS, or Linux) and follow the installat
 
 ---
 
-## 2️⃣ (Optional) Install RStudio
+## (Optional) Install RStudio
 
 RStudio is a user-friendly IDE for R. You can download it here:
 
