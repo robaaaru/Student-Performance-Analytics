@@ -5,16 +5,13 @@ This repository contains R scripts for data analysis, visualization, and modelin
 ## Files
 - `StudentPerformanceAnalytics.R`: a script designed to analyze and provide visual representation of the factors affecting students' academic performance.
 - `StudentFactorsToPerformance.csv`: a dataset with 1,100 observations collected from students across different institutions.
+- `Dashboard.R`: an interactive dashboard built with Shiny for R. The dashboard allows users to visualize relationships between various student life factors and their performance.
 
 ## Requirements
 - Download the latest version of [R](https://posit.co/download/rstudio-desktop/)
-- Packages: `ggplot2`, `dplyr`, `shiny`, `shinydashboard`, `plotly`, `randomForest`, `corrplot`, `DT`, `tidyr` etc.
+- Packages: `ggplot2`, `dplyr`, `shiny`, `shinydashboard`, `plotly`, `randomForest`, `corrplot`, `DT`, `tidyr`
 
-
-
-## iShiny Dashboard
-
-This repository contains an interactive dashboard built with Shiny for R. The dashboard allows users to visualize relationships between various student life factors and their performance.
+---
 
 ## Getting Started
 
@@ -66,5 +63,15 @@ Alternatively, use this direct download link for the main file:
 
 Open R or RStudio and run the following command to install necessary packages:
 
-```Python
-install.packages(c("shiny", "shinydashboard", "tidyverse", "DT"))  # add more if needed
+```R
+install.packages(c( "ggplot2","dplyr","shiny","shinydashboard","plotly","randomForest","corrplot","DT","tidyr"))
+```
+
+## Snapshots
+
+
+![Dashboard Summary Cards](Images/Data Explorer.png)
+
+*Figure 1: Data Explorer panel showing the normalized dataset.*
+
+
