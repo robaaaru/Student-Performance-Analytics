@@ -72,15 +72,15 @@ install.packages(c( "ggplot2","dplyr","shiny","shinydashboard","plotly","randomF
 
 ![Data Explorer](Images/Data_Explorer.png)
 
-<p align=center>*Figure 1: Data Explorer panel showing the normalized dataset.*</p>
+<p align=center><i>Figure 1: Data Explorer panel showing the normalized dataset.</i></p>
 
 ![Feature Importance](Images/Feature_Importance.png)
 
-<p align=center> *Figure 2: Feature Importance panel highlighting variable weight using Random Forest.*</p>
+<p align=center><i>Figure 2: Feature Importance panel highlighting variable weight using Random Forest.></i></p>
 
 ![Manual Prediction](Images/Manual_Prediction.png)
 
-<p align=center>*Figure 3: Manual Prediction Panel showing manual feature setting and its prediction.*</p>
+<p align=center><i>Figure 3: Manual Prediction Panel showing manual feature setting and its prediction.</i></p>
 
 
 
