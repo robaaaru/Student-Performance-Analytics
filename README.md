@@ -8,7 +8,8 @@ This repository contains R scripts for data analysis, visualization, and modelin
 
 ## Requirements
 - Download the latest version of [R](https://posit.co/download/rstudio-desktop/)
-- Packages: `ggplot2`, `dplyr`, etc.
+- Packages: `ggplot2`, `dplyr`, `shiny`, `shinydashboard`, `plotly`, `randomForest`, `corrplot`, `DT`, `tidyr` etc.
+
 
 
 ## iShiny Dashboard
@@ -56,7 +57,8 @@ Then extract the contents to your local computer.
 
 Alternatively, use this direct download link for the main file:
 
-- [Download `app.R`](https://raw.githubusercontent.com/yourusername/repo-name/main/app.R)  
+- [Download `Dashboard.R`](https://raw.githubusercontent.com/robaaaru/Student-Performance-Analytics/main/Dashboard.R)
+- [Download `StudentPerformanceAnalytics.R`](https://raw.githubusercontent.com/robaaaru/Student-Performance-Analytics/main/StudentPerformanceAnalytics.R)
 
 ---
 
@@ -64,5 +66,5 @@ Alternatively, use this direct download link for the main file:
 
 Open R or RStudio and run the following command to install necessary packages:
 
-```r
+```Python
 install.packages(c("shiny", "shinydashboard", "tidyverse", "DT"))  # add more if needed
